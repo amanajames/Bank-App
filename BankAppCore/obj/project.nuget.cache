@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V3UmwOyw8v0QDbVXX+UNA6ChXGQegJXf7wNaaeM5lIRqnbL7L+pQplX/S5IUuHX6/moHXeENNF4yZzeuB3TMyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Downloads\\Task Four (1)\\Task Four\\BankAppCore\\BankAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
